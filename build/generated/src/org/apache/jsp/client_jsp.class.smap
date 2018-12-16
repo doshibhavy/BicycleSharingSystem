@@ -1,0 +1,16 @@
+SMAP
+client_jsp.java
+JSP
+*S JSP
+*F
++ 0 client.jsp
+client.jsp
++ 1 auth.jsp
+auth.jsp
+*L
+1,9:50
+5#1,5:58
+10,27:64
+36,2:91
+9#0,191:93
+*E
